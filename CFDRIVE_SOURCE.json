@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/tomnomnom/meg",
+  "commit": "5cc1d344ce2c29f8c88f183dd70072a17f3d759a",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
